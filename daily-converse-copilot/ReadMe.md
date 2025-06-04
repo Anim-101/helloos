@@ -1,0 +1,1 @@
+To understand the bascis of OS Development and Terminology - Co-pilot is my fellow peer tools to let me grow on this field.
